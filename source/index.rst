@@ -70,3 +70,10 @@ Otherwise, continue on through this documentation to learn more about QUCS-S.
    /libraries/creating/index
    /libraries/using-libraries
 
+.. toctree::
+   :maxdepth: 4
+   :caption: Tools
+   :hidden:
+
+   /Tools/index
+   /Tools/SPViewer/SPViewer
